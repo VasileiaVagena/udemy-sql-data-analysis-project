@@ -1,4 +1,4 @@
--- Task 1: Breakdown of male and female employees per year starting from 1990
+-- Task 1: Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990. 
 
 SELECT 
     YEAR(t_dept.from_date) AS calender_year,
