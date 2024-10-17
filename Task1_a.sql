@@ -1,4 +1,6 @@
--- Task 1.a: Count of male and female employees with contracts signed before 1998
+-- Task 1.a: How many female employees have signed their contracts before January 1, 1998 according to the data in 
+-- the dept_emp table? 
+-- Also, determine the relevant number for male employees. 
 
 SELECT 
     CASE
