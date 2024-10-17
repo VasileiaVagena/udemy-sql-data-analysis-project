@@ -34,7 +34,7 @@ The exercises are based on the **Employee Database**, which includes the followi
 **SQL Task**: Compare the average salary of female versus male employees across all departments up to 2002.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book3task3/task3)
-![Average Salary Comparison]()
+![Average Salary Comparison](task3.png)
 
 ### Task 3.a
 **SQL Task**: Filter the comparison of average salaries by contract dates (before or on/after January 1, 1998).
