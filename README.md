@@ -17,7 +17,7 @@ The exercises are based on the **Employee Database**, which includes the followi
 **SQL Task**: Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book1_17284060097710/Chart1)
-
+![Employee Gender Breakdown](task1.png)
 
 
 ### Task 1.a
