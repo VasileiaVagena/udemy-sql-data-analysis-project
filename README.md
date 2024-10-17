@@ -27,12 +27,14 @@ The exercises are based on the **Employee Database**, which includes the followi
 **SQL Task**: Compare the number of male managers to female managers across departments for each year starting from 1990.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book2task2_17284775262390/task2)
+![Manger Gender Breakdown](task2.png)
 
 
 ### Task 3
 **SQL Task**: Compare the average salary of female versus male employees across all departments up to 2002.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book3task3/task3)
+![Average Salary Comparison]()
 
 ### Task 3.a
 **SQL Task**: Filter the comparison of average salaries by contract dates (before or on/after January 1, 1998).
@@ -41,11 +43,13 @@ The exercises are based on the **Employee Database**, which includes the followi
 **SQL Task**: Create a stored procedure that retrieves the average salary of male and female employees within a user-defined salary range per department.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book4_17290744380270/task4)
+![Average Salary per Department]()
 
 ### Task 5
 **Tableau Task**: Organize visualizations from tasks 1-4 into a Tableau dashboard.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book4task5_dashboard/Dashboard1?publish=yes)
+![Dashboard]()
 
 ## Acknowledgments
 This repository includes exercises and visualizations from the course **"SQL - MySQL for Data Analytics and Business Intelligence"** on Udemy. Special thanks to [365 Careers, 365 Team] for the insightful content.
