@@ -43,7 +43,7 @@ The exercises are based on the **Employee Database**, which includes the followi
 **SQL Task**: Create a stored procedure that retrieves the average salary of male and female employees within a user-defined salary range per department.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book4_17290744380270/task4)
-![Average Salary per Department]()
+![Average Salary per Department](task4.png)
 
 ### Task 5
 **Tableau Task**: Organize visualizations from tasks 1-4 into a Tableau dashboard.
