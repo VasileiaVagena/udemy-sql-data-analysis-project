@@ -49,7 +49,7 @@ The exercises are based on the **Employee Database**, which includes the followi
 **Tableau Task**: Organize visualizations from tasks 1-4 into a Tableau dashboard.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book4task5_dashboard/Dashboard1?publish=yes)
-![Dashboard](https://github.com/VasileiaVagena/udemy-sql-data-analysis-project)
+![Dashboard](Dashboard_resized.png)
 
 ## Acknowledgments
 This repository includes exercises and visualizations from the course **"SQL - MySQL for Data Analytics and Business Intelligence"** on Udemy. Special thanks to [365 Careers, 365 Team] for the insightful content.
