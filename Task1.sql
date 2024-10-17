@@ -8,7 +8,6 @@ FROM
     t_employees AS t_emp
         JOIN
     t_dept_emp AS t_dept ON t_dept.emp_no = t_emp.emp_no
-WHERE
-    YEAR(t_dept.from_date) >= '1990'
 GROUP BY YEAR(t_dept.from_date) , t_emp.gender
+HAVING calender_year >= '1990'
 ORDER BY YEAR(t_dept.from_date) ASC;
