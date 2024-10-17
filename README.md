@@ -1,12 +1,15 @@
-# SQL & Tableau Exercises
+# SQL Exercises & Tableau Visualizations
 
-This repository contains solutions to various SQL exercises and visualizations from the Udemy course *SQL - MySQL for Data Analytics and Business Intelligence*. The database used consists of the following tables:
+## Course Information
+This repository contains exercises and visualizations from the course **"SQL - MySQL for Data Analytics and Business Intelligence"** on Udemy, created by  [365 Careers, 365 Team]. 
 
-- `t_employees`
-- `t_departments`
-- `t_dept_emp`
-- `t_dept_manager`
-- `t_salaries`
+## Database Overview
+The exercises are based on the **Employee Database**, which includes the following tables:
+- `t_employees`: Employee details (name, gender, hire date).
+- `t_departments`: Lists of department names and numbers.
+- `t_dept_emp`: Employee-department relationships.
+- `t_dept_manager`: Department managers' details.
+- `t_salaries`: Salary information for employees.
 
 ## Tasks Overview
 
@@ -15,6 +18,8 @@ This repository contains solutions to various SQL exercises and visualizations f
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book1_17284060097710/Chart1)
 
+
+
 ### Task 1.a
 **SQL Task**: Find the number of female employees who signed contracts before January 1, 1998, and the number of male employees who signed contracts in the same period.
 
@@ -22,6 +27,7 @@ This repository contains solutions to various SQL exercises and visualizations f
 **SQL Task**: Compare the number of male managers to female managers across departments for each year starting from 1990.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book2task2_17284775262390/task2)
+
 
 ### Task 3
 **SQL Task**: Compare the average salary of female versus male employees across all departments up to 2002.
@@ -40,6 +46,9 @@ This repository contains solutions to various SQL exercises and visualizations f
 **Tableau Task**: Organize visualizations from tasks 1-4 into a Tableau dashboard.
 
 [View my Tableau Visualization](https://public.tableau.com/app/profile/vasileia.vagena/viz/Book4task5_dashboard/Dashboard1?publish=yes)
+
+## Acknowledgments
+This repository includes exercises and visualizations from the course **"SQL - MySQL for Data Analytics and Business Intelligence"** on Udemy. Special thanks to [365 Careers, 365 Team] for the insightful content.
 
 ---
 
